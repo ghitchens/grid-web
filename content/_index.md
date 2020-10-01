@@ -6,7 +6,7 @@ header_button_cta:
   url: "#contact-form"
   title: "Get in touch"
 header_button_more:
-  url: "#the-future---today"
+  url: "#our-story"
   title: "Why this is awesome?"
 teaser_image: "images/grid-under-foot.jpg"
 ---
@@ -20,7 +20,6 @@ We went though a fairly deep exploratory and prototyping phase and are now activ
 Feel free to [sign up for our newsletter](#stay-in-touch) if you want us to keep you up to date on our progress.  If you are interested in contacting us, feel free to use our [contact form](#contact-us) and we will be happy to back to you with any questions.
 
 ---
-
 
 # Stay in touch
 
